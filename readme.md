@@ -5,10 +5,10 @@
 
 <div align="left">
 
-  <a href="https://linconvinicius.github.io/Jogo-da-Velha/" width="40px">Para votar clique aqui 
+  <a href="https://linconvinicius.github.io/Urna-Eletronica/" width="40px">Para votar clique aqui</a>
 </div>
 
 <div>
-Candidatos a deputado: <bold>38111, 77222.</bold>
-Candidatos a prefeito: <bold>99, 84.</bold>
+Candidatos a deputado: <b>38111, 77222.</b><br>
+Candidatos a prefeito: <b>99, 84.</b>
 </div>
